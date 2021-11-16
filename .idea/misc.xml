@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/GuessTheWord-Starter/app/src/main/res/layout/fragment_profile.xml" value="0.18333333333333332" />
+        <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/GuessTheWord-Starter/app/src/main/res/layout/game_fragment.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/GuessTheWord-Starter/app/src/main/res/layout/main_activity.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/GuessTheWord-Starter/app/src/main/res/layout/score_fragment.xml" value="0.1796875" />
         <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/GuessTheWord-Starter/app/src/main/res/layout/title_fragment.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/GuessTheWord-Starter/app/src/main/res/menu/options_menu.xml" value="0.14814814814814814" />
       </map>
     </option>
   </component>
